@@ -1,0 +1,28 @@
+_repo: Suomalaiset-Jaameren-rannalla-Matkamuistelmia_52961
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Ervasti, A. V. (August Vilhelm)
+    aliases:
+    - Ervasti, A. W.
+    - Ervasti, August Vilhelm
+    birthdate: 1845
+    deathdate: 1900
+    gutenberg_agent_id: '47026'
+    url: http://www.gutenberg.org/2009/agents/47026
+description: ''
+gutenberg_issued: '2016-09-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52961'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DK'
+- !lcsh 'Finnmark fylke (Norway) -- Description and travel'
+- !lcsh 'Russia -- Description and travel'
+- GITenberg
+title: 'Suomalaiset Jäämeren rannalla: Matkamuistelmia'
+url: http://www.gutenberg.org/ebooks/52961
